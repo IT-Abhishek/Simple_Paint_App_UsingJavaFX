@@ -4,7 +4,7 @@ package Paint_App;
  * This is a Paint like application through which user can draw line, circle, and rectangle on canvas.
  * User can select shape from combobox items, set stroke and fill color using colorpicker, and set line width from textfield.
  * User can also undo and clear.
- * @author Abhishek Chauhan #000815438
+ * @author Abhishek Chauhan 
  *
  */
 

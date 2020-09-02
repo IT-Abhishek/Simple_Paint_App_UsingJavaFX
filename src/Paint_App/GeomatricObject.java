@@ -2,7 +2,7 @@ package Paint_App;
 
 /**
  *
- * @author Abhishek Chauhan #000815438
+ * @author Abhishek Chauhan
  *
  */
 
